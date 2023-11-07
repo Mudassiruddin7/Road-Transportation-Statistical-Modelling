@@ -1,4 +1,4 @@
-![Road](https://media1.tenor.com/images/824941b982135601c3f496e1caeec2ba/tenor.gif?itemid=14445555)
+![Road](https://i.pinimg.com/originals/45/74/cc/4574cc67db2ff828c09935ca5d8fb3e0.gif)
 
 # _**Road Transportation Analysis & Statistical Modelling**_
 This project is an end-to-end Data science project where you can find all the core steps required to satisfy a data science objective. Steps involving Data Extraction, Data Cleaning, Exploratory Data Analysis, Modelling and the Variable selection methods to evaluate how good our model is before and after selecting best features from the raw data using Exclusive Variable Selection algorithm. Statistical analysis has also been performed in order to clean the data and extract some insights which helped us to make a better model.
@@ -108,11 +108,13 @@ Now you are ready to use jupyter on this environment and start with your project
 4.	Make sure you are in the correct path in your terminal, where you have saved your executable file/folder. E.g.: cd A:\project\AI\Completed\project_name, then press enter.
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
-7.      Download the Dataset Folder, Copy the Files & Paste them along with all other files(Don't Keep It in a Folder) & Then Remove the Folder.
-7.      Preprocess.ipynb consists of all the data cleaning steps, which are necessary to build a clean and efficient model.
-8.	main.ipynb consist of major steps and exploratory data analysis which allow us to understand more about the data and behavior of it.
-9.	Variable_Selction.ipynb consists of data reduction/dimensionality reduction techniques such as Sequential feature selector method to reduce the dimensions in the data and compare the model scores before and after dimensionality reduction.
-10.	Combined_main_var.ipynb consists of combination of main.ipynb and variable_selection.ipynb to make it more clear and understable for the audience.
+7.      Download the Dataset from the below link, Copy the Files & Paste them along with all other files(Don't Keep It in a Folder).
++       https://drive.google.com/file/d/1OEKvN6GeMXm1PfHBtxQ6dtM50juKFJ_2/view?usp=sharing
++       https://drive.google.com/file/d/1VsVBB0XFiL-hL-5rcIykG0TEDDT_cHp7/view?usp=sharing
+8.      Preprocess.ipynb consists of all the data cleaning steps, which are necessary to build a clean and efficient model.
+9.	main.ipynb consist of major steps and exploratory data analysis which allow us to understand more about the data and behavior of it.
+10.	Variable_Selction.ipynb consists of data reduction/dimensionality reduction techniques such as Sequential feature selector method to reduce the dimensions in the data and compare the model scores before and after dimensionality reduction.
+11.	Combined_main_var.ipynb consists of combination of main.ipynb and variable_selection.ipynb to make it more clear and understable for the audience.
 
 **Note:**Please follow the above sequence if you would like to execute and the files require good system requirements to run.
 
