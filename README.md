@@ -108,10 +108,9 @@ Now you are ready to use jupyter on this environment and start with your project
 4.	Make sure you are in the correct path in your terminal, where you have saved your executable file/folder. E.g.: cd A:\project\AI\Completed\project_name, then press enter.
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
-7.      Download the Dataset from the below link, Copy the Files & Paste them along with all other files(Don't Keep It in a Folder).
-+       https://drive.google.com/file/d/1OEKvN6GeMXm1PfHBtxQ6dtM50juKFJ_2/view?usp=sharing
-+       https://drive.google.com/file/d/1VsVBB0XFiL-hL-5rcIykG0TEDDT_cHp7/view?usp=sharing
-8.      Preprocess.ipynb consists of all the data cleaning steps, which are necessary to build a clean and efficient model.
+7.  Download the Dataset from the below link, Copy the Files & Paste them along with all other files(Don't Keep It in a Folder).
++     https://drive.google.com/file/d/1nVIliMhizk65cHDs1NZc48nSSJHCbwij/view?usp=sharing
+8.  Preprocess.ipynb consists of all the data cleaning steps, which are necessary to build a clean and efficient model.
 9.	main.ipynb consist of major steps and exploratory data analysis which allow us to understand more about the data and behavior of it.
 10.	Variable_Selction.ipynb consists of data reduction/dimensionality reduction techniques such as Sequential feature selector method to reduce the dimensions in the data and compare the model scores before and after dimensionality reduction.
 11.	Combined_main_var.ipynb consists of combination of main.ipynb and variable_selection.ipynb to make it more clear and understable for the audience.
