@@ -129,7 +129,8 @@ The dataset was downloaded from a kaggle data repository. The dataset has been p
 **All the required data hasn't been provided over here. Please feel free to contact me for any issues. You can also download the dataset from the given link below.**
 
 ### _**Let’s Connect**_
-https://www.linkedin.com/in/mudassiruddin21
+
+<a href="https://linkedin.com/in/mudassiruddin21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mudassiruddin21" height="30" width="40" /></a>
 
 ![Connect](https://media2.giphy.com/media/l1O6zvqu7O317887HF/source.gif)
 
