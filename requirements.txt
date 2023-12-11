@@ -8,3 +8,4 @@ mlxtend
 numpy
 scikit-learn==0.20.3
 missingno
+pipwin
