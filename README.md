@@ -120,6 +120,8 @@ Now you are ready to use jupyter on this environment and start with your project
 # _**Data Description**_
 The dataset was downloaded from a kaggle data repository. The dataset has been pre-processed and cleaned to remove any bias while training. Dataset consists of more than 2 lakh data entries and around47 columns. Some of the important features present in the dataset, Severity, street, city, weather_timestamp, Country, Start_lat, Start_Log, End_lat, End_Lon and etc. These features help us to know which state or country had most number of accidents over the span of years. This analysis gives and overview of how the traffic in the state or country is like and necessary actions to be taken in future.
 
+![Data](https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif)
+
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
 2. Make sure you have the latest version of python or 3.8, since sometimes it might cause version mismatch.
